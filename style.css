@@ -7,3 +7,7 @@
     align-items: center;
     
 }
+
+.boxed {
+    border: 1px solid black ;
+  }
